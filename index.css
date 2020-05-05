@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Presstart';
+    src: url("./fonts/Pressstar/PressStart2P-Regular.ttf");
+}
+body {
+    margin: 0px;
+    padding: 0PX;
+}
+header {
+    display: block;
+    text-align : center; 
+    font-family: 'Presstart';
+    color: rgb(5, 5, 0);
+    background-image: url(./img/Fornite.jpg);
+    background-size: cover;
+    }
+ .articulo {
+  color: rgb(74, 1, 77);
+  text-align : center;
+  font-family: 'Presstart';
+  }
+ .opcioncontra{
+	text-align: center;
+	margin-top: 20px;
+    font-size: 14px;
+    color: rgb(25, 3, 148);
+ }
+
+.item-nav:hover {
+    color: #097679;
+    cursor: pointer;
+}
